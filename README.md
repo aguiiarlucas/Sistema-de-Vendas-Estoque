@@ -49,3 +49,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para r
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+
+<img src="https://img.hotimg.com/Diagrama-UML.jpeg" alt="Diagrama-UML.jpeg" border="0" />
+
